@@ -1,24 +1,6 @@
 # Rocket Engine for Physics Class
 
-Objective: make a small working fluid bi-propellant rocket engine
-
-### Resources:
-- https://youtu.be/VI8gdmjEwKc?si=jSt5G9J_5a8ICkqq
-- https://youtu.be/x05B5nusaLw?si=24WsIwJmIG0IdciG
-- https://youtu.be/XC1Tc5egH74?si=-gywtH47ZLRdF7Ur
-- https://youtube.com/playlist?list=PLbX9WP2S_MYMwtzhWO-6o9Fq24Vk7T-Za&si=qLqg0jDMqB4pCFxk
-- https://youtu.be/kAau2e5sILg?si=o4UfmNlpXlLmAiYO
-- https://youtube.com/playlist?list=PLyJ-pcKWFQSdeUy0XFVZllpI9fBT3yCsE&si=32jorvktfL7fC7Oy
-- https://youtu.be/JU6Ymku1cNw?si=RsupSIDDjV6EkAkS
-- https://youtu.be/Zi2zTaPVzTM?si=mO94Rb_VUMe_6xsD
-- https://youtu.be/Ud8fyPsoGlY?si=VvPf-5cIqqnMvJa6
-- https://youtu.be/gP48Urfv2NQ?si=lDzyiD2Om94iib8m
-
-- https://www.grc.nasa.gov/www/k-12/airplane/rktthsum.html
-
-- https://randomnerdtutorials.com/arduino-k-type-thermocouple-max6675/
-- https://esphome.io/components/sensor/max6675/
-
+Objective: make a small working fluid bi-propellant rocket engine, using gaseous Oxygen and E85.
 
 ### Plan:
 - Diagram
@@ -46,3 +28,20 @@ Objective: make a small working fluid bi-propellant rocket engine
    - Ac (Cross-sectional area of the chamber of 3.14 inches)
    - At (Cross-sectional area of nozzle throat)
    - Skip (copper nozzle is 0.5 inches, so not changing for now)
+
+### Resources:
+- https://youtu.be/VI8gdmjEwKc?si=jSt5G9J_5a8ICkqq
+- https://youtu.be/x05B5nusaLw?si=24WsIwJmIG0IdciG
+- https://youtu.be/XC1Tc5egH74?si=-gywtH47ZLRdF7Ur
+- https://youtube.com/playlist?list=PLbX9WP2S_MYMwtzhWO-6o9Fq24Vk7T-Za&si=qLqg0jDMqB4pCFxk
+- https://youtu.be/kAau2e5sILg?si=o4UfmNlpXlLmAiYO
+- https://youtube.com/playlist?list=PLyJ-pcKWFQSdeUy0XFVZllpI9fBT3yCsE&si=32jorvktfL7fC7Oy
+- https://youtu.be/JU6Ymku1cNw?si=RsupSIDDjV6EkAkS
+- https://youtu.be/Zi2zTaPVzTM?si=mO94Rb_VUMe_6xsD
+- https://youtu.be/Ud8fyPsoGlY?si=VvPf-5cIqqnMvJa6
+- https://youtu.be/gP48Urfv2NQ?si=lDzyiD2Om94iib8m
+
+- https://www.grc.nasa.gov/www/k-12/airplane/rktthsum.html
+
+- https://randomnerdtutorials.com/arduino-k-type-thermocouple-max6675/
+- https://esphome.io/components/sensor/max6675/
